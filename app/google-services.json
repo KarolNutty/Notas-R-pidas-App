@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388319813658",
+    "project_id": "notas-rapidas-4d2cd",
+    "storage_bucket": "notas-rapidas-4d2cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388319813658:android:25e110954f0da04e5db1a3",
+        "android_client_info": {
+          "package_name": "com.karoline.notasrpidas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtJF6L2euFdIiRzQSuA8XLeNL-gWz_NBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
