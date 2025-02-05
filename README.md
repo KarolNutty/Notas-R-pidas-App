@@ -1,0 +1,5 @@
+![NotasScreen1](https://github.com/user-attachments/assets/43e7ee20-67b5-4639-b907-a4eed66834b3)
+![NotasScreen2](https://github.com/user-attachments/assets/e86eef48-d30e-4b71-81bf-c9bbf27b8dce)
+![NotasScreen3](https://github.com/user-attachments/assets/3acb13d6-96d4-458e-bdc6-3ab51c85ea18)
+![NotasScreen4](https://github.com/user-attachments/assets/0bb64918-c3b4-4906-b2d3-5cb4f76159ea)
+![NotasScreen5](https://github.com/user-attachments/assets/d03d5b0d-4d67-4ce4-91cb-8576a72b7db2)
